@@ -1,0 +1,8 @@
+RESTRICTION: == net461
+NUGET
+  remote: http://api.nuget.org/v3/index.json
+    MoreLinq (2.10)
+      System.ValueTuple (>= 4.4)
+    NUnit (3.11)
+    NUnit3TestAdapter (3.10)
+    System.ValueTuple (4.5)

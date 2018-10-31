@@ -1,0 +1,7 @@
+framework: auto-detect
+
+source http://api.nuget.org/v3/index.json
+
+nuget MoreLinq ~> 2.9
+nuget NUnit ~> 3.10
+nuget NUnit3TestAdapter ~> 3.0
